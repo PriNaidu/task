@@ -1,0 +1,6 @@
+.clip-half-circle {
+    clip-path: ellipse(50% 50% at 50% 100%);
+  }
+  input,textarea{
+  outline: none;
+  }
